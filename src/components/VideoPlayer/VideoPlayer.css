@@ -1,0 +1,11 @@
+.player {
+  width: 1200px;
+  position: relative;
+}
+
+.player-overlay {
+  position: absolute;
+  top: -20px;
+  border: 2px solid green;
+  background-color: rgba(0, 255, 0, 0.2);
+}
